@@ -1,0 +1,10 @@
+C:\Users\KOSTA\source\repos\WinApp4\WinApp4\bin\Debug\WinApp4.exe.config
+C:\Users\KOSTA\source\repos\WinApp4\WinApp4\bin\Debug\WinApp4.exe
+C:\Users\KOSTA\source\repos\WinApp4\WinApp4\bin\Debug\WinApp4.pdb
+C:\Users\KOSTA\source\repos\WinApp4\WinApp4\obj\Debug\WinApp4.csprojAssemblyReference.cache
+C:\Users\KOSTA\source\repos\WinApp4\WinApp4\obj\Debug\WinApp4.Form1.resources
+C:\Users\KOSTA\source\repos\WinApp4\WinApp4\obj\Debug\WinApp4.Properties.Resources.resources
+C:\Users\KOSTA\source\repos\WinApp4\WinApp4\obj\Debug\WinApp4.csproj.GenerateResource.cache
+C:\Users\KOSTA\source\repos\WinApp4\WinApp4\obj\Debug\WinApp4.csproj.CoreCompileInputs.cache
+C:\Users\KOSTA\source\repos\WinApp4\WinApp4\obj\Debug\WinApp4.exe
+C:\Users\KOSTA\source\repos\WinApp4\WinApp4\obj\Debug\WinApp4.pdb
